@@ -447,9 +447,12 @@ morphine
 narcotic
 麻醉药
 精神药品
-日我
+奶
+sao
 gay
 SB
+s
+b
 死
 si
 ri
@@ -470,3 +473,4 @@ S-M
 xue
 穴
 淫
+日
