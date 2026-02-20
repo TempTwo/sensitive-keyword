@@ -448,11 +448,9 @@ morphine
 narcotic
 麻醉药
 精神药品
-奶
 sao
 gay
 SB
-死
 si
 ri
 S-B
@@ -464,8 +462,6 @@ Z-W
 SM
 S-M
 肛
-爸
-妈
 爷爷
 儿子
 菊花
