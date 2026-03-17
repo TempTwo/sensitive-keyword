@@ -450,7 +450,10 @@ morphine
 narcotic
 麻醉药
 精神药品
+外挂
+歪瓜
 sao
+ban
 gay
 SB
 S-B
